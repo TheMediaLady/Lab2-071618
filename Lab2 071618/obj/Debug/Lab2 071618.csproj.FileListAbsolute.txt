@@ -1,0 +1,7 @@
+C:\Users\djgar\Desktop\MsALBlair\GC Labs\Lab2 071618\Lab2 071618\bin\Debug\Lab2 071618.exe.config
+C:\Users\djgar\Desktop\MsALBlair\GC Labs\Lab2 071618\Lab2 071618\bin\Debug\Lab2 071618.exe
+C:\Users\djgar\Desktop\MsALBlair\GC Labs\Lab2 071618\Lab2 071618\bin\Debug\Lab2 071618.pdb
+C:\Users\djgar\Desktop\MsALBlair\GC Labs\Lab2 071618\Lab2 071618\obj\Debug\Lab2 071618.csprojAssemblyReference.cache
+C:\Users\djgar\Desktop\MsALBlair\GC Labs\Lab2 071618\Lab2 071618\obj\Debug\Lab2 071618.csproj.CoreCompileInputs.cache
+C:\Users\djgar\Desktop\MsALBlair\GC Labs\Lab2 071618\Lab2 071618\obj\Debug\Lab2 071618.exe
+C:\Users\djgar\Desktop\MsALBlair\GC Labs\Lab2 071618\Lab2 071618\obj\Debug\Lab2 071618.pdb
